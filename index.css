@@ -1,0 +1,71 @@
+.navbar {
+  background-color: rgb(228, 215, 224);
+  overflow: hidden;
+}
+
+#placeholder {
+  float: right;
+  padding: 14px 16px;
+}
+
+#btn1 {
+  float: right;
+  padding: 14px 16px;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: rgb(55, 57, 57);
+}
+
+.navbar a {
+  float: left;
+  color: #986821;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.h2 {
+  font-family: "Sans-serif", "Verdana";
+  text-align: center;
+}
+
+.div3 {
+  height: 200px;
+  width: 200px;
+  background-color: powderblue;
+  margin: auto;
+  text-align: center;
+  font-size: 18px;
+}
+
+.paragraph2 {
+  height: 50px;
+  width: 200 px;
+  text-align: center;
+  color: rgb(17, 19, 16);
+  font-size: large;
+}
+
+.cell {
+  text-align: center;
+  width: 180px;
+  background-color: LightSalmon;
+}
+
+.cell1 {
+  text-align: center;
+  width: 180px;
+}
+
+.h1 {
+  color: darkgrey;
+  text-align: center;
+}
+
+.par1 {
+  text-align: center;
+  color: blueviolet;
+}
